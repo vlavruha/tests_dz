@@ -56,7 +56,7 @@ class TestYandexDisk:
 
     def setup_method(self):
         self.headers = {
-            "Authorization": "OAuth y0_AgAAAABuNhuuAADLWwAAAAEP5zQBAAAiBbrPHFdHbpVy15eybjebFAeAgQ"
+            "Authorization": ""
         }
 
     @pytest.mark.parametrize(
